@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Your Final Affirmations</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@600;800&display=swap" rel="stylesheet">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+
+</head>
+<body class="final-page">
+  <!-- Background Layer -->
+  <div class="background-layer">
+    <img src="assets/background-pattern.png" alt="Background Pattern">
+    <div class="gradient-overlay"></div>
+  </div>
+
+  <div class="final-container">
+    <!-- Progress bar -->
+    <div class="progress-bar-container">
+      <div class="progress-bar-fill" id="progress-bar-fill"></div>
+    </div>
+
+    <!-- Back button -->
+    <button class="back-button" onclick="window.location.href='demographic.html'">
+      <img src="assets/backbuttonsvg.svg" alt="Back" />
+    </button>
+
+    <!-- Headings -->
+    <div class="page-heading">
+      <h1 class="final-heading">Congratulations</h1>
+      <h2 class="final-subheading">You've built a firm foundation for your affirmation!</h2>
+    </div>
+
+    <!-- Output container -->
+    <div class="output-scroll-frame">
+      <div class="output-container" id="final-output"></div>
+    </div>
+
+    <!-- Sticky button -->
+    <div class="sticky-footer">
+      <button id="download-btn" class="button-primary">Download to Save Your Foundation</button>
+    </div>
+  </div>
+
+  <script src="scripts/affirmations.js"></script>
+</body>
+</html>

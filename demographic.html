@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Demographic Characteristics</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@600;800&family=Inter:wght@500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Background Layer (same as splash) -->
+  <div class="background-layer">
+    <img src="assets/background-pattern.png" alt="Background Pattern">
+    <div class="gradient-overlay"></div>
+  </div>
+
+  <div class="page-container">
+    <!-- Global Progress Bar -->
+    <div class="progress-bar-container">
+      <div class="progress-bar-fill" id="progress-bar-fill"></div>
+    </div>
+
+    <!-- Back Button -->
+    <button class="back-button" onclick="window.location.href='emotional.html'">
+      <img src="assets/backbuttonsvg.svg" alt="Back" />
+    </button>
+
+    <!-- Page Headings -->
+    <div class="page-heading">
+      <h1>Demographic Characteristics</h1>
+      <h2>What is your Social Status? </h2>
+    </div>
+
+    <!-- Celebration Section -->
+    <div class="celebration-section">
+      <div class="selection-label" style="text-align: center">
+        <p id="celebration-heading">What do you want to celebrate in this area?</p>
+        <p id="celebration-count">0/1 Selected</p>
+      </div>
+      <!-- Pill Rows for Celebration -->
+      <div id="celebration-container"></div>
+    </div>
+
+    <!-- Transformation Section -->
+    <div class="transformation-section">
+      <div class="selection-label" style="text-align: center">
+        <p id="transformation-heading">What do you want to transform in this area?</p>
+        <p id="transformation-count">0/1 Selected</p>
+      </div>
+      <!-- Pill Rows for Transformation -->
+      <div id="transformation-container"></div>
+    </div>
+
+    <!-- Decorative Black Panel -->
+    <div class="black-rectangle"></div>
+
+    <!-- Sticky Continue Button -->
+    <div class="sticky-footer">
+      <button id="continue-btn" class="button-primary" disabled>0/2</button>
+    </div>
+  </div>
+
+  <script src="scripts/demographic.js"></script>
+</body>
+</html>

@@ -1,0 +1,821 @@
+{
+  "behavioral": {
+    "celebration": {
+      "Kind": [
+        {
+        "text": "I radiate kindness in every interaction, uplifting those around me.",
+       "highlight": "kindness"
+        },
+        {
+          "text": "It feels good to know that I spread kindness wherever I go.",
+          "highlight": "kindness"
+        }
+      ],
+      "Helpful": [
+        {
+          "text": "I’m proud of the way I help others achieve their goals.",
+          "highlight": "help"
+        },
+        {
+          "text": "Honestly, I’m really good at being helpful when it counts.",
+          "highlight": "helpful"
+        }
+      ],
+      "Brave": [
+        {
+          "text": "One of my greatest strengths is being brave in the face of challenges.",
+          "highlight": "brave"
+        },
+        {
+          "text": "I am becoming more brave with every bold step I take.",
+          "highlight": "brave"
+        }
+      ],
+      "Creative": [
+        {
+          "text": "Not to brag, but I actually spark creative ideas effortlessly.",
+          "highlight": "creative"
+        },
+        {
+          "text": "I love how I can create something unique from my imagination.",
+          "highlight": "create"
+        }
+      ],
+      "Patient": [
+        {
+          "text": "Even in tough moments, I still remain patient and calm.",
+          "highlight": "patient"
+        },
+        {
+          "text": "I carry within me the ability to stay patient through any storm.",
+          "highlight": "patient"
+        }
+      ],
+      "Honest": [
+        {
+          "text": "I know I bring value when I speak honestly and with integrity.",
+          "highlight": "honestly"
+        },
+        {
+          "text": "I’ve worked hard to become someone who is always honest and true.",
+          "highlight": "honest"
+        }
+      ],
+      "Cheerful": [
+        {
+          "text": "I radiate cheerful energy that brightens everyone’s day.",
+          "highlight": "cheerful"
+        },
+        {
+          "text": "Lowkey, I love that I bring cheerful vibes to every room.",
+          "highlight": "cheerful"
+        }
+      ],
+      "Curious": [
+        {
+          "text": "One of my greatest strengths is staying curious and open to learning.",
+          "highlight": "curious"
+        },
+        {
+          "text": "I’m learning to appreciate the fact that I am endlessly curious.",
+          "highlight": "curious"
+        }
+      ],
+      "Reliable": [
+        {
+          "text": "It feels good to know that I am reliable for those who count on me.",
+          "highlight": "reliable"
+        },
+        {
+          "text": "I’m proud of the way I always show up reliably.",
+          "highlight": "reliably"
+        }
+      ],
+      "Friendly": [
+        {
+          "text": "It took me a while to see it, but I really connect with friendly warmth.",
+          "highlight": "friendly"
+        },
+        {
+          "text": "I am worthy of building strong, friendly relationships.",
+          "highlight": "friendly"
+        }
+      ],
+      "Thoughtful": [
+        {
+          "text": "I’ve worked hard to become someone who acts with thoughtful care.",
+          "highlight": "thoughtful"
+        },
+        {
+          "text": "I love how I can show thoughtful consideration in all I do.",
+          "highlight": "thoughtful"
+        }
+      ],
+      "Respectful": [
+        {
+          "text": "I carry within me the ability to treat others with respectful dignity.",
+          "highlight": "respectful"
+        },
+        {
+          "text": "Even in tough moments, I still remain respectful and kind.",
+          "highlight": "respectful"
+        }
+      ],
+      "Energetic": [
+        {
+          "text": "Not to brag, but I actually bring energetic enthusiasm everywhere.",
+          "highlight": "energetic"
+        },
+        {
+          "text": "I know I bring value when I share my energetic spirit.",
+          "highlight": "energetic"
+        }
+      ],
+      "Cooperative": [
+        {
+          "text": "I’m proud of the way I work cooperatively to achieve shared goals.",
+          "highlight": "cooperative"
+        },
+        {
+          "text": "I am becoming more cooperative, building stronger teams every day.",
+          "highlight": "cooperative"
+        }
+      ]
+    },
+    "transformation": {
+      "Mean": [
+        {
+          "text": "From this point on, I’m choosing to replace meanness with kindness in all my actions.",
+          "highlight": "meanness"
+        },
+        {
+          "text": "The life I want begins when I let go of meanness and embrace compassion.",
+          "highlight": "meanness"
+        }
+      ],
+      "Lazy": [
+        {
+          "text": "I’ve realized it’s time to overcome laziness and pursue my goals with energy.",
+          "highlight": "laziness"
+        },
+        {
+          "text": "I’ve decided to take control and replace laziness with purposeful action.",
+          "highlight": "laziness"
+        }
+      ],
+      "Rude": [
+        {
+          "text": "If I’m honest, I know I need to let go of rudeness to build stronger connections.",
+          "highlight": "rudeness"
+        },
+        {
+          "text": "Change starts with me, so I will practice respect over rudeness every day.",
+          "highlight": "rudeness"
+        }
+      ],
+      "Impatient": [
+        {
+          "text": "Something in me knows I have to release impatience to find peace in every moment.",
+          "highlight": "impatience"
+        },
+        {
+          "text": "It’s my turn to become the version of me that stays calm instead of impatient.",
+          "highlight": "impatient"
+        }
+      ],
+      "Selfish": [
+        {
+          "text": "I can’t keep hiding from the fact that selfishness limits my ability to care for others.",
+          "highlight": "selfishness"
+        },
+        {
+          "text": "I owe it to myself to finally move past selfishness and embrace generosity.",
+          "highlight": "selfishness"
+        }
+      ],
+      "Dishonest": [
+        {
+          "text": "I’m done waiting—now I will choose honesty in every word I speak.",
+          "highlight": "honesty"
+        },
+        {
+          "text": "I’m no longer okay with dishonesty holding me back from true integrity.",
+          "highlight": "dishonesty"
+        }
+      ],
+      "Careless": [
+        {
+          "text": "Growth requires discomfort, and I’m ready to replace carelessness with mindfulness.",
+          "highlight": "carelessness"
+        },
+        {
+          "text": "There’s a part of me that’s been aching to let go of carelessness and act with purpose.",
+          "highlight": "carelessness"
+        }
+      ],
+      "Stubborn": [
+        {
+          "text": "Lately, I’ve been feeling the need to release stubbornness and embrace flexibility.",
+          "highlight": "stubborness"
+        },
+        {
+          "text": "From this point on, I’m choosing to open my mind instead of staying stubborn.",
+          "highlight": "stubborn"
+        }
+      ],
+      "Shy": [
+        {
+          "text": "The life I want begins when I step out of shyness and share my voice.",
+          "highlight": "shyness"
+        },
+        {
+          "text": "I’m tired of pretending that shyness doesn’t hold me back from connection.",
+          "highlight": "shyness"
+        }
+      ],
+      "Unfocused": [
+        {
+          "text": "I’ve decided to take control and channel my energy to overcome being unfocused.",
+          "highlight": "unfocused"
+        },
+        {
+          "text": "I’ve realized it’s time to move past being unfocused and pursue clarity.",
+          "highlight": "unfocused"
+        }
+      ],
+      "Grumpy": [
+        {
+          "text": "Change starts with me, so I will choose joy over grumpiness every day.",
+          "highlight": "grumpiness"
+        },
+        {
+          "text": "If I’m honest, I know I need to let go of grumpiness to spread positivity.",
+          "highlight": "grumpiness"
+        }
+      ],
+      "Reckless": [
+        {
+          "text": "It’s my turn to become the version of me that thinks carefully instead of acting recklessly.",
+          "highlight": "recklessly"
+        },
+        {
+          "text": "Something in me knows I have to replace recklessness with thoughtful decisions.",
+          "highlight": "recklessness"
+        }
+      ],
+      "Timid": [
+        {
+          "text": "I owe it to myself to finally break free from timidity and embrace boldness.",
+          "highlight": "timidity"
+        },
+        {
+          "text": "There’s a part of me that’s been aching to overcome timidity and shine.",
+          "highlight": "timidity"
+        }
+      ],
+      "Inconsiderate": [
+        {
+          "text": "I’m done waiting—now I will act with consideration for others’ feelings.",
+          "highlight": "consideration"
+        },
+        {
+          "text": "I’m no longer okay with inconsiderate actions hurting my relationships.",
+          "highlight": "inconsiderate"
+        }
+      ]
+    }
+  }
+,
+  "emotional": {
+    "celebration": {
+      "Happy": [
+        {
+          "text": "I radiate happiness, spreading warmth to everyone around me.",
+          "highlight": "happiness"
+        },
+        {
+          "text": "Lowkey, I love that I bring happiness to every moment I’m in.",
+          "highlight": "happiness"
+        }
+      ],
+      "Excited": [
+        {
+          "text": "I’m proud of the way I embrace excitement to fuel my passions.",
+          "highlight": "excitement"
+        },
+        {
+          "text": "I know I bring value when I channel excitement into bold actions.",
+          "highlight": "excitement"
+        }
+      ],
+      "Calm": [
+        {
+          "text": "Even in tough moments, I still remain calm and centered.",
+          "highlight": "calm"
+        },
+        {
+          "text": "I am becoming more calm, creating peace in every situation.",
+          "highlight": "calm"
+        }
+      ],
+      "Proud": [
+        {
+          "text": "One of my greatest strengths is feeling proud of my unique journey.",
+          "highlight": "proud"
+        },
+        {
+          "text": "It feels good to know that I carry pride with humility.",
+          "highlight": "pride"
+        }
+      ],
+      "Joyful": [
+        {
+          "text": "I carry within me the ability to spread joy wherever I go.",
+          "highlight": "joy"
+        },
+        {
+          "text": "Not to brag, but I actually spark joy in everything I do.",
+          "highlight": "joy"
+        }
+      ],
+      "Confident": [
+        {
+          "text": "I love how I can approach challenges with unwavering confidence.",
+          "highlight": "confidence"
+        },
+        {
+          "text": "I’ve worked hard to become someone who radiates confidence.",
+          "highlight": "confidence"
+        }
+      ],
+      "Grateful": [
+        {
+          "text": "I am worthy of a life filled with grateful moments.",
+          "highlight": "grateful"
+        },
+        {
+          "text": "I’m learning to appreciate the fact that I live with gratitude every day.",
+          "highlight": "gratitude"
+        }
+      ],
+      "Peaceful": [
+        {
+          "text": "It feels good to know that I cultivate peace within myself.",
+          "highlight": "peace"
+        },
+        {
+          "text": "I radiate peace, bringing calm to those around me.",
+          "highlight": "peace"
+        }
+      ],
+      "Hopeful": [
+        {
+          "text": "One of my greatest strengths is staying hopeful in any circumstance.",
+          "highlight": "hopeful"
+        },
+        {
+          "text": "It took me a while to see it, but I really shine with hope.",
+          "highlight": "hope"
+        }
+      ],
+      "Inspired": [
+        {
+          "text": "I carry within me the ability to stay inspired and inspire others.",
+          "highlight": "inspired"
+        },
+        {
+          "text": "I know I bring value when I act on my inspired ideas.",
+          "highlight": "inspired"
+        }
+      ],
+      "Content": [
+        {
+          "text": "Even in tough moments, I still find contentment in the present.",
+          "highlight": "contentment"
+        },
+        {
+          "text": "I am becoming more content with who I am every day.",
+          "highlight": "content"
+        }
+      ],
+      "Cheerful": [
+        {
+          "text": "Honestly, I’m really good at spreading cheer wherever I go.",
+          "highlight": "cheer"
+        },
+        {
+          "text": "I’m proud of the way I bring cheerfulness to brighten any day.",
+          "highlight": "cheerfulness"
+        }
+      ],
+      "Secure": [
+        {
+          "text": "I am worthy of feeling secure in my own strength.",
+          "highlight": "secure"
+        },
+        {
+          "text": "It feels good to know that I stand secure in my own worth.",
+          "highlight": "secure"
+        }
+      ],
+      "Optimistic": [
+        {
+          "text": "Not to brag, but I actually see the bright side with optimism every time.",
+          "highlight": "optimism"
+        },
+        {
+          "text": "I love how I can stay optimistic no matter the challenge.",
+          "highlight": "optimistic"
+        }
+      ]
+    },
+    "transformation": {
+      "Sad": [
+        {
+          "text": "The life I want begins when I choose joy over sadness every day.",
+          "highlight": "sadness"
+        },
+        {
+          "text": "I’m tired of pretending that sadness doesn’t weigh me down, and I’m ready to heal.",
+          "highlight": "sadness"
+        }
+      ],
+      "Angry": [
+        {
+          "text": "From this point on, I’m choosing to replace anger with understanding and peace.",
+          "highlight": "anger"
+        },
+        {
+          "text": "I’ve realized it’s time to let go of anger and embrace calmness.",
+          "highlight": "anger"
+        }
+      ],
+      "Scared": [
+        {
+          "text": "If I’m honest, I know I need to face my fears instead of staying scared.",
+          "highlight": "scared"
+        },
+        {
+          "text": "Change starts with me, so I will step beyond feeling scared with courage.",
+          "highlight": "scared"
+        }
+      ],
+      "Frustrated": [
+        {
+          "text": "I’ve decided to take control and move past frustration with patience.",
+          "highlight": "frustration"
+        },
+        {
+          "text": "Something in me knows I have to release frustration to find clarity.",
+          "highlight": "frustration"
+        }
+      ],
+      "Nervous": [
+        {
+          "text": "Growth requires discomfort, and I’m ready to transform nervousness into confidence.",
+          "highlight": "nervousness"
+        },
+        {
+          "text": "There’s a part of me that’s been aching to let go of nervousness and shine.",
+          "highlight": "nervousness"
+        }
+      ],
+      "Jealous": [
+        {
+          "text": "I’m no longer okay with jealousy blocking my path to gratitude.",
+          "highlight": "jealousy"
+        },
+        {
+          "text": "It’s my turn to become the version of me that celebrates others instead of feeling jealous.",
+          "highlight": "jealous"
+        }
+      ],
+      "Lonely": [
+        {
+          "text": "I can’t keep hiding from the fact that loneliness pushes me to seek connection.",
+          "highlight": "loneliness"
+        },
+        {
+          "text": "I owe it to myself to finally reach out and overcome loneliness.",
+          "highlight": "loneliness"
+        }
+      ],
+      "Embarrassed": [
+        {
+          "text": "I’m done waiting—now I will embrace my imperfections instead of feeling embarrassed.",
+          "highlight": "embarrassed"
+        },
+        {
+          "text": "Lately, I’ve been feeling the need to let go of embarrassment and own my story.",
+          "highlight": "embarrassment"
+        }
+      ],
+      "Guilty": [
+        {
+          "text": "If I’m honest, I know I need to forgive myself to move past guilt.",
+          "highlight": "guilt"
+        },
+        {
+          "text": "The life I want begins when I release guilt and choose growth.",
+          "highlight": "guilt"
+        }
+      ],
+      "Ashamed": [
+        {
+          "text": "Something in me knows I have to let go of shame to embrace my worth.",
+          "highlight": "shame"
+        },
+        {
+          "text": "From this point on, I’m choosing to replace shame with self-acceptance.",
+          "highlight": "shame"
+        }
+      ],
+      "Anxious": [
+        {
+          "text": "Change starts with me, so I will trade anxiety for inner peace.",
+          "highlight": "anxiety"
+        },
+        {
+          "text": "There’s a part of me that’s been aching to release anxiety and find calm.",
+          "highlight": "anxiety"
+        }
+      ],
+      "Disappointed": [
+        {
+          "text": "I’ve decided to take control and turn disappointment into new opportunities.",
+          "highlight": "disappointment"
+        },
+        {
+          "text": "I’m no longer okay with disappointment holding me back from hope.",
+          "highlight": "disappointment"
+        }
+      ],
+      "Insecure": [
+        {
+          "text": "I’m tired of pretending that insecurity doesn’t dim my light, and I’m ready to shine.",
+          "highlight": "insecurity"
+        },
+        {
+          "text": "I owe it to myself to finally overcome insecurity and embrace my strength.",
+          "highlight": "insecurity"
+        }
+      ],
+      "Resentful": [
+        {
+          "text": "It’s my turn to become the version of me that lets go of resentment for forgiveness.",
+          "highlight": "resentment"
+        },
+        {
+          "text": "I’ve realized it’s time to release resentment and reclaim my peace.",
+          "highlight": "resentment"
+        }
+      ]
+    }
+  },
+  "demographic": {
+    "celebration": {
+      "Wealth": [
+        {
+          "text": "I’m proud of the way I build wealth to create opportunities for myself and others.",
+          "highlight": "wealth"
+        },
+        {
+          "text": "I radiate abundance, sharing wealth with generosity and purpose.",
+          "highlight": "wealth"
+        }
+      ],
+      "Income": [
+        {
+          "text": "It feels good to know that I earn income through my dedication and effort.",
+          "highlight": "income"
+        },
+        {
+          "text": "Not to brag, but I actually grow my income with smart choices.",
+          "highlight": "income"
+        }
+      ],
+      "Education": [
+        {
+          "text": "One of my greatest strengths is using my education to empower my decisions.",
+          "highlight": "education"
+        },
+        {
+          "text": "I am becoming more knowledgeable every day through my pursuit of education.",
+          "highlight": "education"
+        }
+      ],
+      "Occupation": [
+        {
+          "text": "I’ve worked hard to become someone who thrives in my occupation.",
+          "highlight": "occupation"
+        },
+        {
+          "text": "I love how I can make a difference through my occupation.",
+          "highlight": "occupation"
+        }
+      ],
+      "Status": [
+        {
+          "text": "I am worthy of a status that reflects my unique contributions.",
+          "highlight": "status"
+        },
+        {
+          "text": "Lowkey, I love that I carry my status with confidence and grace.",
+          "highlight": "status"
+        }
+      ],
+      "Class": [
+        {
+          "text": "Even in tough moments, I still show class in how I treat others.",
+          "highlight": "class"
+        },
+        {
+          "text": "I know I bring value when I embody class in every interaction.",
+          "highlight": "class"
+        }
+      ],
+      "Background": [
+        {
+          "text": "I carry within me the ability to honor my background while shaping my future.",
+          "highlight": "background"
+        },
+        {
+          "text": "I’m learning to appreciate the fact that my background fuels my resilience.",
+          "highlight": "background"
+        }
+      ],
+      "Role": [
+        {
+          "text": "I’m proud of the way I embrace my role to inspire those around me.",
+          "highlight": "role"
+        },
+        {
+          "text": "Honestly, I’m really good at shining in my role every day.",
+          "highlight": "role"
+        }
+      ],
+      "Profession": [
+        {
+          "text": "It feels good to know that I excel in my profession through hard work.",
+          "highlight": "profession"
+        },
+        {
+          "text": "I am becoming more skilled and impactful in my profession.",
+          "highlight": "profession"
+        }
+      ],
+      "Position": [
+        {
+          "text": "I love how I can use my position to create positive change.",
+          "highlight": "position"
+        },
+        {
+          "text": "It took me a while to see it, but I really own my position with confidence.",
+          "highlight": "position"
+        }
+      ],
+      "Literacy": [
+        {
+          "text": "I radiate literacy, using knowledge to uplift myself and others.",
+          "highlight": "literacy"
+        },
+        {
+          "text": "I’ve worked hard to become someone who values literacy as a tool for growth.",
+          "highlight": "literacy"
+        }
+      ],
+      "Achievement": [
+        {
+          "text": "One of my greatest strengths is pursuing achievement with relentless drive.",
+          "highlight": "achievement"
+        },
+        {
+          "text": "Not to brag, but I actually celebrate every achievement with pride.",
+          "highlight": "achievement"
+        }
+      ],
+      "Influence": [
+        {
+          "text": "I carry within me the ability to wield influence for good.",
+          "highlight": "influence"
+        },
+        {
+          "text": "I know I bring value when I use my influence to inspire others.",
+          "highlight": "influence"
+        }
+      ],
+      "Prestige": [
+        {
+          "text": "Even in tough moments, I still carry prestige with humility.",
+          "highlight": "prestige"
+        },
+        {
+          "text": "Lowkey, I love that I build prestige through my authentic efforts.",
+          "highlight": "prestige"
+        }
+      ]
+    },
+    "transformation": {
+      "Poverty": [
+        {
+          "text": "From this point on, I’m choosing to rise above poverty with determination and resourcefulness.",
+          "highlight": "poverty"
+        },
+        {
+          "text": "The life I want begins when I break free from poverty through my own efforts.",
+          "highlight": "poverty"
+        }
+      ],
+      "Unemployment": [
+        {
+          "text": "I’ve realized it’s time to move past unemployment and pursue new opportunities.",
+          "highlight": "unemployment"
+        },
+        {
+          "text": "If I’m honest, I know I need to overcome unemployment to reclaim my purpose.",
+          "highlight": "unemployment"
+        }
+      ],
+      "Undereducation": [
+        {
+          "text": "Growth requires discomfort, and I’m ready to seek knowledge beyond undereducation.",
+          "highlight": "undereducation"
+        },
+        {
+          "text": "I’ve decided to take control and expand my learning to overcome undereducation.",
+          "highlight": "undereducation"
+        }
+      ],
+      "Low-status": [
+        {
+          "text": "I can’t keep hiding from the fact that low-status doesn’t define my worth.",
+          "highlight": "low-status"
+        },
+        {
+          "text": "I owe it to myself to finally rise above low-status and shine in my own way.",
+          "highlight": "low-status"
+        }
+      ],
+      "Isolation": [
+        {
+          "text": "Something in me knows I have to break free from isolation to build meaningful connections.",
+          "highlight": "isolation"
+        },
+        {
+          "text": "It’s my turn to become the version of me that thrives beyond isolation.",
+          "highlight": "isolation"
+        }
+      ],
+      "Dependency": [
+        {
+          "text": "Change starts with me, so I will move from dependency to self-reliance.",
+          "highlight": "dependency"
+        },
+        {
+          "text": "There’s a part of me that’s been aching to let go of dependency and stand strong.",
+          "highlight": "dependency"
+        }
+      ],
+      "Inexperience": [
+        {
+          "text": "I’m done waiting—now I will embrace inexperience as a chance to grow.",
+          "highlight": "inexperience"
+        },
+        {
+          "text": "I’m no longer okay with inexperience holding me back from new possibilities.",
+          "highlight": "inexperience"
+        }
+      ],
+      "Disconnection": [
+        {
+          "text": "I’m tired of pretending that disconnection doesn’t keep me from belonging.",
+          "highlight": "disconnection"
+        },
+        {
+          "text": "The life I want begins when I bridge disconnection with authentic relationships.",
+          "highlight": "disconnection"
+        }
+      ],
+      "Segregation": [
+        {
+          "text": "From this point on, I’m choosing to unite rather than stay divided by segregation.",
+          "highlight": "segregation"
+        },
+        {
+          "text": "Lately, I’ve been feeling the need to overcome segregation and foster inclusion.",
+          "highlight": "segregation"
+        }
+      ],
+      "Limitation": [
+        {
+          "text": "I owe it to myself to finally push past limitation and embrace my potential.",
+          "highlight": "limitation"
+        },
+        {
+          "text": "If I’m honest, I know I need to break free from limitation to live fully.",
+          "highlight": "limitation"
+        }
+      ]
+    }
+  }
+}
