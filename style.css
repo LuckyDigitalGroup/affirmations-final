@@ -709,7 +709,7 @@ body {
     max-width: 100%;
     padding: 16px 20px;
     padding-bottom: 105px;
-    background: linear-gradient(to bottom, #fff 275px, var(--night-12) 275px);
+    background: linear-gradient(to bottom, #fff 300px, var(--night-12) 300px);
   }
   
   .celebration-section,
