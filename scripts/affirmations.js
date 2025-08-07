@@ -86,7 +86,7 @@ document.getElementById("download-btn").addEventListener("click", async () => {
   `;
 
   tempDiv.innerHTML = `
-    <div style="background: #FFF; border-radius: 12px; padding: 32px;">
+    <div style="background: #FFF; border-radius: 12px; padding: 32px 32px 80px 32px;">
       <h1 style="color: #101010; text-align: center; font-size: 32px; font-weight: 800; margin-bottom: 40px;">
         My Affirmations
       </h1>
@@ -100,8 +100,14 @@ document.getElementById("download-btn").addEventListener("click", async () => {
           </div>
         `)
         .join("")}
+
+             <!-- ADD THIS LINE BEFORE THE CLOSING </div> -->
+      <div style="text-align: center; margin-top: 20px;">
+        <p style="color: #666; font-size: 14px; font-weight: 600;">Autrell Reid LLC</p>
+      </div>
     </div>
   `;
+ 
 
   document.body.appendChild(tempDiv);
 

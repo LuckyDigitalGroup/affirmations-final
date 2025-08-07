@@ -44,9 +44,9 @@ body {
 
   /* Background: gradient over the image */
   background-image: 
-    linear-gradient(180deg, white 10%, rgba(255,255,255,0.95) 70%, rgba(255,255,255,0.7) 90%, transparent 100%),
+    linear-gradient(180deg, white 5%, rgba(255,255,255,0.95) 40%, rgba(255,255,255,0.7) 60%, transparent 100%),
     url('assets/background-pattern.png');
-  background-size: 250%;
+  background-size: 300%;
   background-repeat: no-repeat;
   background-position: bottom center;
 }
@@ -57,7 +57,7 @@ body {
   position: absolute;
   inset: 0;
   background-color: white;
-  opacity: 0.35; /* Tweak this */
+  opacity: 0.25; /* Tweak this */
   z-index: 0;
   pointer-events: none;
 }
@@ -84,8 +84,8 @@ body {
 .gradient-overlay {
   position: absolute;
   inset: 0;
-  background: linear-gradient(180deg, white 10%, rgba(255,255,255,0.9) 40%, transparent);
-  z-index: -1;
+  background: linear-gradient(180deg, white 30%, rgba(255,255,255,0.9) 55%, transparent);
+  z-index: 0;
 }
 
 
@@ -128,6 +128,18 @@ body {
   align-self: stretch;
 }
 
+.company-credit {
+  text-align: center;
+  margin-top: 0px;
+  padding: 16px;
+}
+
+.company-credit p {
+  color: #101010;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: "Barlow Semi Condensed", sans-serif;
+}
 
 .button-primary {
   display: flex;
@@ -168,6 +180,7 @@ body {
   margin: 0;
   border-radius: 8px;
 }
+
 
 /* ================== CHARACTERISTIC PAGES ================== */
 .page-container {
